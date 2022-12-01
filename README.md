@@ -37,7 +37,7 @@
 
 - [doks-child-theme.netlify.app](https://doks-child-theme.netlify.app/)
 
-## Why Doks?
+## Why Doks
 
 Nine main reasons why you should use Doks:
 
