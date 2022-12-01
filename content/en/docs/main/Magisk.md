@@ -32,6 +32,6 @@ fastboot flash boot [path]
 ```
 
 ## 一些提示
-1. 在部分 ROM 上, 刷入 Magsik 后 Magisk Manager 可能无法识别, 刷入 Magsik 23.4 即可
+1. 在部分 ROM 上, 刷入 Magsik 后 Magisk Manager 可能无法识别, 刷入 Magsik 24.3 即可
 2. 不要刷入他人提供的 Boot, 您无法确认他适用于您的设备
 3. 同样的, 若刷入 Magsik 后无法启动设备, 您需要考虑 AVB 的问题
