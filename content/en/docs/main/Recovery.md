@@ -1,7 +1,7 @@
 ---
 title: "Recovery"
 description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Recovery 模式是 Android 的一种模式, 可以修改手机的内部数据, 进行刷写的操作"
+lead: "Recovery 模式是 Android 的一种模式, 可以修改手机的内部数据, 进行刷写等操作"
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
