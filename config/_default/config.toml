@@ -1,4 +1,4 @@
-baseurl = "https://rn8p.nalanyinyun.ml/"
+baseurl = "https://begonia.nalanyinyun.ml/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
