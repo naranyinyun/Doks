@@ -1,6 +1,6 @@
 ---
 title: "Third-Party ROM"
-description: "Doks comes with commands for common tasks."
+description: "第三方 ROM 通常指类原生, 官改等非 OEM(原始设备制造商) 提供的操作系统"
 lead: "第三方 ROM 通常指类原生, 官改等非 OEM(原始设备制造商) 提供的操作系统"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
