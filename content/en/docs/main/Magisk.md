@@ -1,6 +1,6 @@
 ---
 title: "Magisk"
-description: "One page summary of how to start a new Doks project."
+description: "Magsik 是适用于 Android 的一种框架, 通过挂载自定义的分区实现的 Systemless 特性, Magisk 可以更安全, 更强大实现一系列功能, 当然, 不止 Root"
 lead: "Magsik 是适用于 Android 的一种框架, 通过挂载自定义的分区实现的 Systemless 特性, Magisk 可以更安全, 更强大实现一系列功能, 当然, 不止 Root"
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
